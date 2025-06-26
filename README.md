@@ -2,7 +2,7 @@
 
 A personal portfolio showcasing my skills, projects, and experience as a full-stack developer. Built with modern web technologies to reflect my passion for clean design, responsive UI, and impactful solutions.
 
-### Link - https://my-portfolio-sigma-three-14.vercel.app/
+### Link - https://himanshu-dhapola-my-portfolio.vercel.app/
 
 ## Home
 ![Image](https://github.com/user-attachments/assets/911efa4a-4d36-4cde-a0e0-344d51fb8a76)
