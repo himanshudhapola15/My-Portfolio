@@ -14,13 +14,13 @@ const ProjectBox = ({ projectPhoto, projectName, description, github, demo }) =>
       <br />
       <br />
       <div className="links">
-        <a href={github} target="_blank" rel="noopener noreferrer">
+        <a href={github} rel="noopener noreferrer">
           <button className="projectbtn">
             <FaGithub />
             GitHub
           </button>
         </a>
-        <a href={demo} target="_blank" rel="noopener noreferrer">
+        <a href={demo} rel="noopener noreferrer">
           <button className="projectbtn">
             <CgFileDocument />
             Live Demo

@@ -24,12 +24,12 @@ const projectList = [
     demo: "https://travels-umber.vercel.app/",
   },
   {
-    name: "Scheduling Algorithms",
+    name: "AlgoScheduler",
     description:
       "A web-based interactive simulator for classic CPU and Disk scheduling algorithms. Visualize Gantt charts, seek sequences, and performance metrics using real-time input values and file-based tasks.",
     image: simulator,
-    github: "https://github.com/himanshudhapola15/EasBy",
-    demo: "https://himanshu-dhapola-easby.vercel.app/",
+    github: "https://github.com/himanshudhapola15/Scheduling-Algorithms",
+    demo: "https://scheduling-algorithms-rlxh.vercel.app/",
   },
   {
     name: "Weather App",
